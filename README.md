@@ -1,5 +1,3 @@
-# Lab6web
-# Lab6web
 
 
 Nama : Mohammad Azmi Abdussyukur 
